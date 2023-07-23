@@ -22,6 +22,8 @@ MIT license was used for creating this repository.
 ## Credits/References
 Starter code from https://github.com/coding-boot-camp/miniature-eureka
 
+Inspiration and codes from: https://github.com/cynthiamory/note-express/tree/main
+
 ## Link to the Deployed Application
 
 ## Screenshot of the Deployed Application
